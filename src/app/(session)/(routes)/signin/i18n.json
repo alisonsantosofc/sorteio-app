@@ -1,0 +1,30 @@
+{
+  "pt-br":{
+    "content": {
+      "title": "Entrar",
+      "or": "ou",
+      "createAccount": "Criar uma conta",
+      "password": "senha",
+      "recoveryPassword": "Esqueceu sua senha?",
+      "loginButton": "Entrar na plataforma"
+    },
+    "messages": {
+      "invalidEmail": "Email não foi inserido ou está inválido",
+      "invalidPassword": "Senha não foi inserida ou está inválida"
+    }
+  },
+  "en-us": {
+    "content": {
+      "title": "Sign in",
+      "or": "or",
+      "createAccount": "Create account",
+      "password": "password",
+      "recoveryPassword": "Forgot your password?",
+      "loginButton": "Login to the platform"
+    },
+    "messages": {
+      "invalidEmail": "Email was not entered or is invalid",
+      "invalidPassword": "Password was not entered or is invalid"
+    }
+  }
+}

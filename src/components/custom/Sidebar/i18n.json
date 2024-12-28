@@ -1,0 +1,18 @@
+{
+  "pt-br":{
+    "content": {
+      "routesLabels": {
+        "dashboard": "Dashboard",
+        "draws": "Meus sorteios"
+      }
+    }
+  },
+  "en-us": {
+    "content": {
+      "routesLabels": {
+        "dashboard": "Dashboard",
+        "draws": "My draws"
+      }
+    }
+  }
+}

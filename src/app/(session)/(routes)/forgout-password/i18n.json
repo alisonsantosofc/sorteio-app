@@ -1,0 +1,54 @@
+{
+  "pt-br":{
+    "content": {
+      "title": "Recuperar senha",
+      "or": "ou",
+      "login": "Entrar na plataforma",
+      "resetPassword": "Você já tem um código?",
+      "inputs": {
+        "email": {
+          "description": "Para redefinir sua senha, informe o seu endereço de email utilizado no cadastro."
+        }
+      },
+      "button": {
+        "continue": "Continuar"
+      }
+    },
+    "messages": {
+      "invalidEmail": "Email não foi inserido ou está inválido",
+      "generatedCodeSuccess": "Código gerado com sucesso, em alguns instantes você receberá um email com seu código!"
+    },
+    "requests": {
+      "1.2.1": {"variant": "destructive", "message": "Usuário não existe. Por favor, verifique o endereço de email."},
+      "1.2.2": {"variant": "destructive", "message": "Você só pode solicitar códigos a cada 14 horas. Por favor, tente novamente mais tarde."},
+      "1.2.3": {"variant": "destructive", "message": "Ocorreu um erro com o envio de email. Por favor, entre em contato com a nossa equipe."},
+      "1.2.4": {"variant": "destructive", "message": "Erro interno do servidor. Por favor, tente novamente mais tarde."}
+    }
+  },
+  "en-us": {
+    "content": {
+      "title": "Recovery password",
+      "or": "or",
+      "login": "Login to the platform",
+      "resetPassword": "Do you already have a code?",
+      "inputs": {
+        "email": {
+          "description": "To reset your password, enter your email address used when registering."
+        }
+      },
+      "button": {
+        "continue": "Continue"
+      }
+    },
+    "messages": {
+      "invalidEmail": "Email was not entered or is invalid",
+      "generatedCodeSuccess": "Code generated successfully, in a few moments you will receive an email with your code!"
+    },
+    "requests": {
+      "1.2.1": {"variant": "destructive", "message": "User does not exist. Please check email address."},
+      "1.2.2": {"variant": "destructive", "message": "You can only request codes every 14 hours. Please try again later."},
+      "1.2.3": {"variant": "destructive", "message": "An error occurred while sending email. Please contact our team."},
+      "1.2.4": {"variant": "destructive", "message": "Internal server error. Please try again later."}
+    }
+  }
+}

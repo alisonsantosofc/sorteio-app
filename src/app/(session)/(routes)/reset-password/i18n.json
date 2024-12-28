@@ -1,0 +1,48 @@
+{
+  "pt-br":{
+    "content": {
+      "title": "Resetar senha",
+      "or": "ou",
+      "login": "Entrar na plataforma",
+      "forgoutPassword": "Não tem um código?",
+      "inputs": {
+        "code": "código de verificação",
+        "password": "nova senha"
+      },
+      "buttonSave": "Salvar"
+    },
+    "messages": {
+      "invalidCode": "Código não foi inserido ou está inválido",
+      "invalidPassword": "Senha deve conter no minímo 8 caracteres",
+      "resetPasswordSuccess": "Senha atualizada com sucesso, você já pode ultilizar sua nova senha!"
+    },
+    "requests": {
+      "1.3.1": {"variant": "destructive", "message": "Código não existe. Por favor, verifique seu código e tente novamente."},
+      "1.3.2": {"variant": "destructive", "message": "Código expirado. Por favor, solicite um novo código e tente novamente."},
+      "1.3.3": {"variant": "destructive", "message": "Erro interno do servidor. Por favor, tente novamente mais tarde."}
+    }
+  },
+  "en-us": {
+    "content": {
+      "title": "Reset password",
+      "or": "or",
+      "login": "Login to the platform",
+      "forgoutPassword": "Don't have a code?",
+      "inputs": {
+        "code": "verification code",
+        "password": "new password"
+      },
+      "buttonSave": "Save"
+    },
+    "messages": {
+      "invalidCode": "Code was not entered or is invalid",
+      "invalidPassword": "Password must contain at least 8 characters",
+      "resetPasswordSuccess": "Password updated successfully, you can now use your new password!"
+    },
+    "requests": {
+      "1.3.1": {"variant": "destructive", "message": "Code does not exist. Please check your code and try again."},
+       "1.3.2": {"variant": "destructive", "message": "Expired code. Please request a new code and try again."},
+       "1.3.3": {"variant": "destructive", "message": "Internal server error. Please try again later."}
+    }
+  }
+}

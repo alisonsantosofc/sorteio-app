@@ -1,0 +1,20 @@
+{
+  "pt-br":{
+    "content": {
+      "buttonTitle": "Comece grátis agora",
+      "options": {
+        "subscription": "Assinatura",
+        "logout": "Sair"
+      }
+    }
+  },
+  "en-us": {
+    "content": {
+      "buttonTitle": "Get started free now",
+      "options": {
+        "subscription": "Subscription",
+        "logout": "Log out"
+      }
+    }
+  }
+}

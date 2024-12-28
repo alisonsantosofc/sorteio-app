@@ -1,0 +1,24 @@
+{
+  "pt-br":{
+    "content": {
+      "buttonTitle": "Comece grátis agora",
+      "options": {
+        "home": "Ínicio",
+        "benefits": "O que oferecemos",
+        "about": "Sobre o projeto",
+        "support": "Suporte"
+      }
+    }
+  },
+  "en-us": {
+    "content": {
+      "buttonTitle": "Get started free now",
+      "options": {
+        "home": "Home",
+        "benefits": "What we offer",
+        "about": "About project",
+        "support": "Support"
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pt-br":{
+    "content": {
+      "title": "Criar uma conta",
+      "or": "ou",
+      "login": "Entrar na plataforma",
+      "name": "nome",
+      "password": "senha",
+      "confirmPassword": "confirmar senha",
+      "acceptTerms": "Estou de acordo com os termos de uso e política de privacidade.",
+      "recoveryPassword": "Esqueceu sua senha?",
+      "createAccountButton": "Registrar"
+    },
+    "messages": {
+      "invalidName": "Nome não foi inserido mas é obrigatório",
+      "invalidEmail": "Email não foi inserido ou está inválido",
+      "invalidPassword": "Senha deve conter no mínimo 8 caracteres",
+      "checkTermsAlert": "Você deve aceitar os termos de uso e política de privacidade para continuar."
+    },
+    "requests": {
+      "1.1.1": {"variant": "destructive", "message": "Email já está cadastrado. Por favor, tente outro endereço de email."},
+      "1.1.2": {"variant": "destructive", "message": "Erro interno do servidor. Por favor, tente novamente mais tarde."}
+    }
+  },
+  "en-us": {
+    "content": {
+      "title": "Create account",
+      "or": "or",
+      "login": "Login to the platform",
+      "name": "name",
+      "password": "password",
+      "confirmPassword": "confirm password",
+      "acceptTerms": "I agree with the terms of use and privacy policy.",
+      "recoveryPassword": "Forgot your password?",
+      "createAccountButton": "Register"
+    },
+    "messages": {
+      "invalidName": "Name was not entered but is required",
+      "invalidEmail": "Email was not entered or is invalid",
+      "invalidPassword": "Password must contain at least 8 characters",
+      "checkTermsAlert": "You must accept the terms of use and privacy policy to continue."
+    },
+    "requests": {
+      "1.1.1": {"variant": "destructive", "message": "Email is already registered. Please try another email address."},
+      "1.1.2": {"variant": "destructive", "message": "Internal server error. Please try again later."}
+    }
+  }
+}

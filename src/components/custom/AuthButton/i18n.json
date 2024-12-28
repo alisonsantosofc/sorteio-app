@@ -1,0 +1,22 @@
+{
+  "pt-br":{
+    "content": {
+      "buttons": {
+        "register": "Comece grátis agora",
+        "login": "Entrar",
+        "logout": "Sair",
+        "profile": "Meu perfil"
+      }
+    }
+  },
+  "en-us": {
+    "content": {
+      "buttons": {
+        "register": "Get started free now",
+        "login": "Sign in",
+        "logout": "Log out",
+        "profile": "Profile"
+      }
+    }
+  }
+}

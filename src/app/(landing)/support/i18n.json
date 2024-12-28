@@ -1,0 +1,24 @@
+{
+  "pt-br":{
+    "content": {
+      "title": "Precisa de ajuda?",
+      "textHighlight": "Você pode abrir um pedido de suporte ou visitar nossa seção de perguntas frequentes para saber mais sobre o problema que está enfrentando.",
+      "textHighlight2": "Se nenhuma dessas soluções ajudou você, pode entrar em contato com o desenvolvedor através desse endereço de email: #email",
+      "buttons": {
+        "help": "Solicitar suporte",
+        "helpNow": "Tentar resolver agora"
+      }
+    }
+  },
+  "en-us": {
+    "content": {
+      "title": "Need help?",
+      "textHighlight": "You can open a support ticket or visit our FAQ section to learn more about the issue you are experiencing.",
+       "textHighlight2": "If none of these solutions helped you, you can contact the developer at this email address: #email",
+      "buttons": {
+        "help": "Request support",
+        "helpNow": "Try to resolve now"
+      }
+    }
+  }
+}

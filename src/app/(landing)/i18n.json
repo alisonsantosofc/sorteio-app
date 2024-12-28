@@ -1,0 +1,16 @@
+{
+  "pt-br":{
+    "content": {
+      "title": "Domine o inglês sem gastar um centavo e em pouco tempo!",
+      "textHighlight": "Uma plataforma pensada para quem deseja aprender inglês mais não pode gastar, aprenda rápido seguindo os cronogramas e economize tempo.",
+      "signInButton": "Entrar"
+    }
+  },
+  "en-us": {
+    "content": {
+      "title": "Master English without spending a penny and in no time!",
+      "textHighlight": "A platform designed for those who want to learn English but can't afford it, learn quickly following schedules and save time.",
+      "signInButton": "Sign in"
+    }
+  }
+}

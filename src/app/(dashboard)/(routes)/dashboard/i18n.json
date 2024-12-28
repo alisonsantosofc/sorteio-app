@@ -1,0 +1,12 @@
+{
+  "pt-br":{
+    "options": {
+      "draws": "Meus sorteios"
+    }
+  },
+  "en-us": {
+    "options": {
+      "draws": "My draws"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "pt-br":{
+    "content": {
+      "categoriesTitles": {
+        "grammar": "Gramática",
+        "vocabulary": "Vocabulário",
+        "topics": "Tópicos"
+      },
+      "week": "Semana"
+    }
+  },
+  "en-us": {
+    "content": {
+      "categoriesTitles": {
+        "grammar": "Grammar",
+        "vocabulary": "Vocabulary",
+        "topics": "Topics"
+      },
+      "week": "Week"
+    }
+  }
+}

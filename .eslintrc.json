@@ -1,0 +1,33 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+		"indent": [
+			"error",
+			"tab"
+		],
+		"linebreak-style": [
+			"error",
+			"unix"
+		],
+		"quotes": [
+			"error",
+			"single"
+		],
+		"semi": [
+			"error",
+			"always"
+		],
+		"object-curly-spacing": [
+      "error",
+      "always"
+    ],
+		"no-constant-condition": "off",
+		"react/react-in-jsx-scope": "off",
+		"react/no-unknown-property": "off",
+		"react/display-name": "off",
+		"react-hooks/exhaustive-deps": "off",
+		"@typescript-eslint/no-unused-vars": "off",
+		"@typescript-eslint/no-explicit-any": "off",
+		"@typescript-eslint/ban-ts-comment": "off"
+	}
+}
